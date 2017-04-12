@@ -99,4 +99,4 @@ for i in range(cnt):
     # print (tf.argmax(y, 1))
     # print(y.eval())
     print("识别结果:", float(res))
-    #print("\n")
+    print("\n")
