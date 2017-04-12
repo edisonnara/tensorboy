@@ -19,9 +19,9 @@ tensorflow: 1.0.1
 IDE: PyCharm Community Edition 2017.1
 
 # 安装
-注意：mac下，我的root用户安装后无法使用，建议采用普通用户
-
 Step1: 安装anaconda. 
+
+注意：mac下，我的root用户安装后无法使用，建议采用普通用户
 
 前往官网https://www.continuum.io/downloads/下载mac版安装器
 
